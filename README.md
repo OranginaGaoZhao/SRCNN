@@ -12,3 +12,8 @@
 
 ### After 15000 epoches:
 ![test_image_epoch15000](https://user-images.githubusercontent.com/32909287/31880142-8e747f00-b7d7-11e7-8740-9d277525624c.png)
+
+
+### References:
+
+https://github.com/tegg89/SRCNN-Tensorflow
